@@ -8,7 +8,7 @@
 			<column name="RateID" />
 		</id>
 		<property name="iMinCreditScore" type="integer">
-			<column name="MinCreditScore" length="3" />
+			<column name="MinCreditScore" length="3"/>
 		</property>
 		<property name="dInterestRate" type="double">
 			<column name="INTERESTRATE" length="5" precision="4" />
